@@ -146,7 +146,7 @@ public class exercise35 {
 
     //Test output
     public static void main(String[] args) {
-        UberShop shop = new UberShop();
+        exercise35 shop = new exercise35();
 
         //Should be 144 - 20 + 50 + 40 + 34
         int[] prices = new int[] {10, 20, 50, 40, 34, 500};
